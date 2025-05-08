@@ -120,19 +120,5 @@ A .NET Document Mapper for MongoDB over MongoDB C# Driver
 * [Memory Transactions] (https://github.com/emiliotorrens/MongoMapper.NET/blob/master/EtoolTech.MongoDB.Mapper.Test.NUnit/TransactionTest.cs)
 * [Document Version] (https://github.com/emiliotorrens/MongoMapper.NET/blob/master/EtoolTech.MongoDB.Mapper.Test.NUnit/VersionTest.cs)
  
-### Change Log
-
-* [30/12/2011] (http://bit.ly/uy80RE)
-* [05/01/2012] (http://bit.ly/yfcsn4)
-* [02/02/2012] (http://bit.ly/AfGfKC)
-* [14/02/2012] (http://bit.ly/zvnk0F)
-* [07/03/2012] (http://bit.ly/wMX6Ha)
-* [20/03/2012] (http://bit.ly/GAIbez)
-* [18/07/2012] (http://bit.ly/M9gqOp)
-* [29/10/2012] (http://bit.ly/VyLjyT)
-* [10/02/2013] (http://j.mp/Xm0KLa)
-* [22/08/2013] (http://j.mp/13IyrQQ)
-* [22/12/2014] (http://www.emiliotorrens.com/2014/12/22/mongomapper-net-1-1/)
-* [09/12/2015] (http://www.emiliotorrens.com/2015/12/09/mongomapper-net-2-0-beta/)
 
 
